@@ -1,0 +1,17 @@
+name = "karin-ai-assistant"
+main = "server.ts"
+compatibility_date = "2026-11-06"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+[vars]
+APP_NAME = "Karin AI Assistant"
+APP_VERSION = "1.0.0"
+APP_ENV = "production"
+
+[observability]
+enabled = true
