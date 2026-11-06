@@ -1,0 +1,111 @@
+{
+  "greetings": {
+    "assalamu_alaikum": {
+      "word": "Assalamu Alaikum",
+      "phonetic": "Assalamu Alaikum",
+      "meaning": "Peace be upon you",
+      "response": "Wa alaikum assalam. How can I help you?",
+      "category": "greeting"
+    },
+    "walaikum_assalam": {
+      "word": "Wa alaikum assalam",
+      "phonetic": "Wa alaikum assalam",
+      "meaning": "And upon you be peace",
+      "response": "How can I assist you today? I am KARIN.",
+      "category": "greeting"
+    },
+    "hello": {
+      "word": "Hello",
+      "phonetic": "Hello",
+      "meaning": "Friendly greeting",
+      "response": "Hello! I am KARIN AI Assistant, developed by VELTRICK. How can I assist you today?",
+      "category": "greeting"
+    },
+    "how_are_you": {
+      "word": "How are you",
+      "phonetic": "How are you",
+      "meaning": "Wellbeing check",
+      "response": "I am doing great, thank you! How can I help you right now?",
+      "category": "greeting"
+    },
+    "good_morning": {
+      "word": "Good morning",
+      "phonetic": "Good morning",
+      "meaning": "Morning greeting",
+      "response": "Good morning! Wishing you a productive and wonderful day. How can I help?",
+      "category": "greeting"
+    },
+    "good_night": {
+      "word": "Good night",
+      "phonetic": "Good night",
+      "meaning": "Night greeting",
+      "response": "Good night! Have a peaceful and restful sleep.",
+      "category": "greeting"
+    }
+  },
+  "terms": {
+    "veltrick": {
+      "word": "VELTRICK",
+      "phonetic": "Vel-trick",
+      "meaning": "Technology innovation company",
+      "spoken": "Vel-trick",
+      "category": "brand"
+    },
+    "md_kamruzzaman": {
+      "word": "MD Kamruzzaman",
+      "phonetic": "MD Kamruzzaman",
+      "meaning": "Founder & Managing Director of VELTRICK",
+      "spoken": "MD Kamruzzaman",
+      "category": "person"
+    },
+    "karin": {
+      "word": "KARIN",
+      "phonetic": "Karin",
+      "meaning": "Voice & AI Assistant",
+      "spoken": "Karin",
+      "category": "assistant"
+    },
+    "government": {
+      "word": "Government",
+      "phonetic": "shorkari (সরকারি)",
+      "meaning": "Pertaining to government administration",
+      "spoken": "Government",
+      "category": "administration"
+    },
+    "assistant": {
+      "word": "Assistant",
+      "phonetic": "shohokari (সহকারী)",
+      "meaning": "A helper or associate",
+      "spoken": "Assistant",
+      "category": "administration"
+    },
+    "time": {
+      "word": "Time",
+      "phonetic": "shomoy (সময়)",
+      "meaning": "Measured continuous progression of existence",
+      "spoken": "Time",
+      "category": "time"
+    },
+    "now": {
+      "word": "Now",
+      "phonetic": "ekhon (এখন)",
+      "meaning": "At the present time or moment",
+      "spoken": "Now",
+      "category": "time"
+    },
+    "artificial_intelligence": {
+      "word": "Artificial Intelligence",
+      "phonetic": "krittrim buddhidotta (কৃত্রিম বুদ্ধিমত্তা)",
+      "meaning": "Computer systems performing tasks that ordinarily require human intelligence",
+      "spoken": "Artificial Intelligence",
+      "category": "technology"
+    },
+    "thank_you": {
+      "word": "Thank you",
+      "phonetic": "Thank you",
+      "meaning": "Expression of gratitude",
+      "response": "You are very welcome! It is a pleasure assisting you.",
+      "category": "courtesy"
+    }
+  }
+}

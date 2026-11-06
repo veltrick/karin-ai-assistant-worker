@@ -1,0 +1,104 @@
+{
+  "greetings": {
+    "assalamu_alaikum": {
+      "word": "আসসালামু আলাইকুম",
+      "phonetic": "Assalamu Alaikum",
+      "meaning": "আপনার উপর শান্তি বর্ষিত হোক",
+      "response": "ওয়ালাইকুম আসসালাম। কেমন আছেন? কীভাবে সাহায্য করতে পারি?",
+      "category": "greeting"
+    },
+    "walaikum_assalam": {
+      "word": "ওয়ালাইকুম আসসালাম",
+      "phonetic": "Walaikum Assalam",
+      "meaning": "আপনার উপরও শান্তি বর্ষিত হোক",
+      "response": "কেমন আছেন? আমি কারিন, কীভাবে সাহায্য করতে পারি?",
+      "category": "greeting"
+    },
+    "kemon_achen": {
+      "word": "কেমন আছেন",
+      "phonetic": "Kemon achen",
+      "meaning": "কুশল বিনিময়",
+      "response": "আলহামদুলিল্লাহ, আমি ভালো আছি। আপনি কেমন আছেন? আপনাকে কীভাবে সাহায্য করতে পারি?",
+      "category": "greeting"
+    },
+    "shuvo_shokal": {
+      "word": "শুভ সকাল",
+      "phonetic": "Shuvo Shokal",
+      "meaning": "সকালের শুভেচ্ছা",
+      "response": "শুভ সকাল! আপনার আজকের দিনটি সুন্দর ও সফল হোক। কীভাবে সাহায্য করব?",
+      "category": "greeting"
+    },
+    "shuvo_ratri": {
+      "word": "শুভ রাত্রি",
+      "phonetic": "Shuvo Ratri",
+      "meaning": "রাতের শুভেচ্ছা",
+      "response": "শুভ রাত্রি! শান্তিময় বিশ্রাম কামনা করছি। কোনো সাহায্য লাগলে বলবেন।",
+      "category": "greeting"
+    }
+  },
+  "terms": {
+    "veltrick": {
+      "word": "VELTRICK",
+      "phonetic": "ভেলট্রিক",
+      "meaning": "প্রযুক্তি উদ্ভাবনী প্রতিষ্ঠান",
+      "spoken": "ভেলট্রিক",
+      "category": "brand"
+    },
+    "md_kamruzzaman": {
+      "word": "এমডি কামরুজ্জামান",
+      "phonetic": "MD Kamruzzaman",
+      "meaning": "VELTRICK এর প্রতিষ্ঠাতা ও ব্যবস্থাপনা পরিচালক",
+      "spoken": "এমডি কামরুজ্জামান",
+      "category": "person"
+    },
+    "karin": {
+      "word": "কারিন",
+      "phonetic": "Karin",
+      "meaning": "ভয়েস ও এআই সহকারী",
+      "spoken": "কারিন",
+      "category": "assistant"
+    },
+    "shorkari": {
+      "word": "সরকারি",
+      "phonetic": "shorkari",
+      "meaning": "রাষ্ট্রীয় বা সরকারের অধীনস্থ (Government / Official)",
+      "spoken": "সরকারি",
+      "category": "administration"
+    },
+    "shohokari": {
+      "word": "সহকারী",
+      "phonetic": "shohokari",
+      "meaning": "সহায়তাকারী বা অনুগত কর্মকর্তা (Assistant / Associate)",
+      "spoken": "সহকারী",
+      "category": "administration"
+    },
+    "shomoy": {
+      "word": "সময়",
+      "phonetic": "shomoy",
+      "meaning": "কাল বা ঘড়ির প্রহর (Time)",
+      "spoken": "সময়",
+      "category": "time"
+    },
+    "ekhon": {
+      "word": "এখন",
+      "phonetic": "ekhon",
+      "meaning": "বর্তমান মুহূর্ত (Now / Currently)",
+      "spoken": "এখন",
+      "category": "time"
+    },
+    "kritrim_buddhimitra": {
+      "word": "কৃত্রিম বুদ্ধিমত্তা",
+      "phonetic": "krittrim buddhidotta",
+      "meaning": "আর্টিফিশিয়াল ইন্টেলিজেন্স (AI)",
+      "spoken": "কৃত্রিম বুদ্ধিমত্তা",
+      "category": "technology"
+    },
+    "dhonnobad": {
+      "word": "ধন্যবাদ",
+      "phonetic": "Dhonnobad",
+      "meaning": "কৃতজ্ঞতা প্রকাশ (Thank you)",
+      "response": "আপনাকে অনেক ধন্যবাদ! সাহায্য করতে পেরে আমি আনন্দিত।",
+      "category": "courtesy"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "greetings": {
+    "assalamu_alaikum": {
+      "word": "अस्सलाम वालेकुम",
+      "phonetic": "Assalamu Alaikum",
+      "meaning": "आप पर शांति हो",
+      "response": "वालेकुम अस्सलाम। आप कैसे हैं? मैं आपकी क्या मदद कर सकती हूँ?",
+      "category": "greeting"
+    },
+    "namaste": {
+      "word": "नमस्ते",
+      "phonetic": "Namaste",
+      "meaning": "अभिवादन",
+      "response": "नमस्ते! मैं करिन हूँ, वेलट्रिक (VELTRICK) द्वारा विकसित। मैं आपकी क्या सहायता कर सकती हूँ?",
+      "category": "greeting"
+    },
+    "kaisa_hai": {
+      "word": "आप कैसे हैं",
+      "phonetic": "Aap kaise hain",
+      "meaning": "कुशल क्षेम",
+      "response": "मैं बहुत अच्छी हूँ, धन्यवाद! आप कैसे हैं? मैं आपकी क्या मदद कर सकती हूँ?",
+      "category": "greeting"
+    }
+  },
+  "terms": {
+    "veltrick": {
+      "word": "VELTRICK",
+      "phonetic": "वेलट्रिक",
+      "meaning": "प्रौद्योगिकी नवाचार कंपनी",
+      "spoken": "वेलट्रिक",
+      "category": "brand"
+    },
+    "md_kamruzzaman": {
+      "word": "एमडी कमरज्जमान",
+      "phonetic": "MD Kamruzzaman",
+      "meaning": "VELTRICK के संस्थापक और प्रबंध निदेशक",
+      "spoken": "एमडी कमरज्जमान",
+      "category": "person"
+    },
+    "karin": {
+      "word": "करिन",
+      "phonetic": "Karin",
+      "meaning": "एआई वॉइस असिस्टेंट",
+      "spoken": "करिन",
+      "category": "assistant"
+    },
+    "shorkari": {
+      "word": "सरकारी",
+      "phonetic": "sarkari",
+      "meaning": "शासकीय (Government)",
+      "spoken": "सरकारी",
+      "category": "administration"
+    },
+    "shohokari": {
+      "word": "सहायक",
+      "phonetic": "sahayak",
+      "meaning": "सहयोगी (Assistant)",
+      "spoken": "सहायक",
+      "category": "administration"
+    },
+    "samay": {
+      "word": "समय",
+      "phonetic": "samay",
+      "meaning": "वक्त (Time)",
+      "spoken": "समय",
+      "category": "time"
+    },
+    "dhanyavad": {
+      "word": "धन्यवाद",
+      "phonetic": "Dhanyavad",
+      "meaning": "आभार (Thank you)",
+      "response": "आपका बहुत-बहुत धन्यवाद! आपकी सहायता करके मुझे खुशी हुई।",
+      "category": "courtesy"
+    }
+  }
+}
